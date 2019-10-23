@@ -118,7 +118,7 @@ text-align: center;
 .navegacion{
 	width: 1020px;
 	margin: 30px auto;
-	background: #fff;
+	background: moccasin;
 }
 
 .navegacion ul{
@@ -133,13 +133,13 @@ text-align: center;
 .menu > li > a{
 	display: block;
 	padding: 15px 20px;
-	color: #353535;
+	color: blue;
 	font-family: 'Open sans';
 	text-decoration: none;
 }
 
 .menu li a:hover{
-	color: #CE7D35;
+	color: red;
 	transition: all .3s;
 }
 
